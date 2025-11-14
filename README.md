@@ -45,5 +45,5 @@ see libraries in Code_BlueC_TimoHeidinger_GitHub.ipynb
 Timo Heidinger (2025)
 
 ## Citation
-Heidinger, T. (2025). MThesis_BlueC_TimoHeidinger. GitHub. URL
+Heidinger, T. (2025). MThesis_BlueC_TimoHeidinger. GitHub. https://github.com/timoheidinger2000/MThesis_BlueC_TimoHeidinger
 

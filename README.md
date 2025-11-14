@@ -43,3 +43,7 @@ see libraries in Code_BlueC_TimoHeidinger_GitHub.ipynb
 
 ## Author
 Timo Heidinger (2025)
+
+## Citation
+Heidinger, T. (2025). MThesis_BlueC_TimoHeidinger. GitHub. URL
+

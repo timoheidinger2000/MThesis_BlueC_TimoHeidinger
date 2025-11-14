@@ -1,5 +1,5 @@
 # Coding Script: Blue Carbon Modeling 
-[Coding_Script_BlueC_TimoHeidinger_GitHub.ipynb]
+[Code_BlueC_TimoHeidinger_GitHub.ipynb]
 
 as part of the Master Thesis "Mapping Blue Carbon and Ecosystem Perceptions in The Gambia: A Socio-Ecological Approach in the Niumi UNESCO Biosphere Reserve"
 
@@ -34,7 +34,7 @@ The workflow includes:
 * Evaluation metrics and cross-validation results
 
 ## Requirements
-see libraries in Coding_Script_BlueC_TimoHeidinger_GitHub.ipynb
+see libraries in Code_BlueC_TimoHeidinger_GitHub.ipynb
 
 ## Additional:
 
